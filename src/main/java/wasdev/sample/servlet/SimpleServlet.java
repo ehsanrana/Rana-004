@@ -23,7 +23,7 @@ public class SimpleServlet extends HttpServlet {
         response.setContentType("text/html");
         response.getWriter().print("Hello World!");
         response.getWriter().print("<br/>");
-        response.getWriter().print("<b>Hello Class!</b>");
+        response.getWriter().print("<b>Hello CSVC Class!</b>");
     }
 
 }
